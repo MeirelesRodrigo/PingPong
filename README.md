@@ -15,6 +15,8 @@ Este é um jogo de Ping Pong desenvolvido em HTML5, CSS e JavaScript. Ele utiliz
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+
+## 🛠️ Imagem
 ![Captura de Tela do Jogo](pingpong.png)
 ## 🚀 Como Usar
 
