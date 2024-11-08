@@ -20,4 +20,4 @@ Este é um jogo de Ping Pong desenvolvido em HTML5, CSS e JavaScript. Ele utiliz
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ping-pong-jogo.git
+   git clone https://github.com/MeirelesRodrigo/PingPong.git
